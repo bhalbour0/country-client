@@ -1,27 +1,42 @@
 # CountryApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
+## Installation and Run
 
-## Development server
+This project is the web application for the [country service project](https://www.example.com).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+First, you need to start the server from the previous link.
 
-## Code scaffolding
+To get the server up and running, please follow these steps:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Install the git client (if needed)
 
-## Build
+Please refer to Install Git if you don't already have git locally.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Download and install the project
 
-## Running unit tests
+Go into your folder, then run :
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+`git clone https://github.com/bhalbour0/country-client.git`
 
-## Running end-to-end tests
+### Start the application
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Open up a terminal inside the country-client folder, then run:
 
-## Further help
+`npm run start`
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Once the application is started, you could access to the web application with your browser at http://localhost:4200/
+
+## Usage
+
+When you open the application in the browser you should see this page:
+
+![capture - app opening](https://user-images.githubusercontent.com/115737893/203157899-5ae1809e-561b-4e6b-baff-26c641a11a59.png)
+
+First, you will the list of countries, which is got from the server.
+
+Then, if you scroll down a little bit, you will see a search bar where you can find information of a single country.
+
+![capture - second api call](https://user-images.githubusercontent.com/115737893/203158520-2b29f301-197c-4076-b3a7-5d603938156f.png)
+
+
+
