@@ -1,4 +1,4 @@
-# CountryApp
+# Country Web Application
 
 ## Installation and Run
 
