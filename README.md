@@ -6,11 +6,11 @@ This project is the web application for the [country service project](https://ww
 
 First, you need to start the server from the previous link.
 
-To get the server up and running, please follow these steps:
+To get the application up and running, please follow these steps:
 
 ### Install the git client (if needed)
 
-Please refer to Install Git if you don't already have git locally.
+Please refer to [Install Git](https://github.com/git-guides/install-git) if you don't already have git locally.
 
 ### Download and install the project
 
