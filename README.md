@@ -20,7 +20,7 @@ Go into your folder, then run :
 
 ### Install Angular and Npm
 
-First, you need to install last version of angular and npm, please follow these steps: [https://angular.io/guide/setup-local(https://angular.io/guide/setup-local)
+First, you need to install last version of angular and npm, please follow these steps on [angular website](https://angular.io/guide/setup-local)
 
 ### Install the dependencies
 
