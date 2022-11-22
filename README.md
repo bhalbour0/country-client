@@ -2,7 +2,7 @@
 
 ## Installation and Run
 
-This project is the web application for the [country service project](https://www.example.com).
+This project is the web application for the [country service project](https://github.com/bhalbour0/country-service).
 
 First, you need to start the server from the previous link.
 
